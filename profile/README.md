@@ -1,8 +1,8 @@
-# 🌊 harborlabs
+# 🌊 oceanforge
 
 **Small, deploy-it-yourself showcase apps for the DigitalOcean cloud.**
 
-harborlabs is a collection of tiny, well-documented open-source projects that each demonstrate one thing: *how little it takes to ship a real app on DigitalOcean.* No sprawling boilerplate, no servers to babysit — just clone, set a few environment variables, and deploy.
+oceanforge is a collection of tiny, well-documented open-source projects that each demonstrate one thing: *how little it takes to ship a real app on DigitalOcean.* No sprawling boilerplate, no servers to babysit — just clone, set a few environment variables, and deploy.
 
 Every repo comes with a step-by-step write-up, so you can read the code **and** the story behind it.
 
@@ -10,11 +10,11 @@ Every repo comes with a step-by-step write-up, so you can read the code **and** 
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| [**spaces-gallery**](https://github.com/harborlabs/spaces-gallery) | Image uploads to Spaces, served from a gallery, running on App Platform | Python · Flask · Spaces |
+| [**spaces-gallery**](https://github.com/oceanforge/spaces-gallery) | Image uploads to Spaces, served from a gallery, running on App Platform | Python · Flask · Spaces |
 
 _More on the way._
 
-## 🧭 What every harborlabs repo gives you
+## 🧭 What every oceanforge repo gives you
 
 - **Runs locally in minutes** — clear setup, sensible defaults.
 - **Deploys with no Dockerfile** — App Platform buildpacks do the work.
