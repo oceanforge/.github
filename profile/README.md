@@ -13,6 +13,7 @@ Every repo comes with a step-by-step write-up, so you can read the code **and** 
 | [**spaces-gallery**](https://github.com/oceanforge/spaces-gallery) | Image uploads to Spaces, served from a gallery, running on App Platform | Python · Flask · Spaces |
 | [**inference-shootout**](https://github.com/oceanforge/inference-shootout) | One prompt raced across many models, streaming side by side, with latency and cost | Python · Flask · Inference |
 | [**pg-index-referee**](https://github.com/oceanforge/pg-index-referee) | A model proposes Postgres indexes; the database builds each one in a rolled-back transaction and keeps only what the planner actually used | Python · Postgres · Inference |
+| [**pg-repack-plan**](https://github.com/oceanforge/pg-repack-plan) | Which bloated tables PostgreSQL 19's REPACK can rewrite online, and which still need a maintenance window | Python · Postgres |
 
 _More on the way._
 
