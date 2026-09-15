@@ -14,6 +14,7 @@ Every repo comes with a step-by-step write-up, so you can read the code **and** 
 | [**inference-shootout**](https://github.com/oceanforge/inference-shootout) | One prompt raced across many models, streaming side by side, with latency and cost | Python · Flask · Inference |
 | [**pg-index-referee**](https://github.com/oceanforge/pg-index-referee) | A model proposes Postgres indexes; the database builds each one in a rolled-back transaction and keeps only what the planner actually used | Python · Postgres · Inference |
 | [**pg-repack-plan**](https://github.com/oceanforge/pg-repack-plan) | Which bloated tables PostgreSQL 19's REPACK can rewrite online, and which still need a maintenance window | Python · Postgres |
+| [**sni-leak-check**](https://github.com/oceanforge/sni-leak-check) | Enter a domain and see whether its hostname leaks on the wire and whether it publishes an Encrypted ClientHello config to hide it | Python · FastAPI · Docker |
 
 _More on the way._
 
